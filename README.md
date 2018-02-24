@@ -1,2 +1,4 @@
-# invie-github
-Las mejores guitarras invie-sibles, curso avanzado de platzi...
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
