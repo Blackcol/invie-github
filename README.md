@@ -1,2 +1,2 @@
 # invie-github
-Las mejores guitarras invie-sibles, curso avanzado de platzi.
+Las mejores guitarras invie-sibles, curso avanzado de platzi...
